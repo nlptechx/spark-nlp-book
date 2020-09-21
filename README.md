@@ -1,6 +1,7 @@
 # Natural Language Processing with Spark NLP
 
 This the repo for the book [Natural Language Processing with Spark NLP: Learning to Understand Text at Scale](https://www.amazon.com/Natural-Language-Processing-Spark-NLP/dp/1492047767)
+![mg](https://images-na.ssl-images-amazon.com/images/I/813XphDREyL._AC_UL474_SR474,450_.jpg)
 
 I have two folders for the notebooks
 
