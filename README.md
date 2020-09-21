@@ -2,6 +2,8 @@
 
 This the repo for the book [Natural Language Processing with Spark NLP: Learning to Understand Text at Scale](https://www.amazon.com/Natural-Language-Processing-Spark-NLP/dp/1492047767)
 
+![img](https://images-na.ssl-images-amazon.com/images/I/813XphDREyL._AC_UL474_SR474,450_.jpg)
+
 I have two folders for the notebooks
 
 - `colab` is the folder containing the notebooks to be run on google colab
